@@ -6,3 +6,11 @@
 |-----|---------|
 |Mode|Online|
 |Fee|Rs 100|
+
+1. SSC
+2. Inter
+3. BTech
+
+- SQL
+- Python
+- C
