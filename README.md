@@ -17,3 +17,6 @@
 
 
 > APSSDC Git Workshop
+
+
+# Today is the last day for this workshop
