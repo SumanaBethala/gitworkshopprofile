@@ -20,3 +20,11 @@
 
 
 # Today is the last day for this workshop
+
+```
+a = "APSSDC"
+b = "Workshop"
+print(a+b)
+
+Output: APSSDC WORkshop
+```
